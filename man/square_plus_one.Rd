@@ -2,7 +2,7 @@
 % Please edit documentation in R/square_plus_one.R
 \name{square_plus_one}
 \alias{square_plus_one}
-\title{add_one}
+\title{add_one to vector}
 \usage{
 square_plus_one(x)
 }
@@ -17,6 +17,6 @@ Adds 1 to each element of a vector
 }
 \examples{
 vals <- seq(1, 10, 1)
-add_one(vals)
+square_add_one(vals)
 }
 
