@@ -14,7 +14,5 @@
 
 sqrt_minus_one <- function(x){
   out <- sqrt(x) - 1
-  # out <- sqrt(x - 1)
-
   return(out)
 }
