@@ -87,7 +87,6 @@ If you have all your functions in a package, it's worthwhile putting it on githu
 ### Create a repo on github
 
 Get a github account and create an empty repo. The best option is to name is whatever you named your package folder, in this case `myNewPackage`.
-Take not of the
 
 ### Setting up git
 
