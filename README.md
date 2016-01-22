@@ -9,5 +9,5 @@ Repo used for Friday demonstration.
 
 ## Pretty useful
 [**testthat**](https://github.com/hadley/testthat)
-[![Travis](/graphics/travis.jpeg)](www.travis.ci.org)
+[![Travis](/graphics/travis.jpeg)](https://www.travis.ci.org)
 [![codecov](/graphics/codecov.png)](https://codecov.io/)
