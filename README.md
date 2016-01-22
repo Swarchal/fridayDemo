@@ -20,7 +20,7 @@ There are a few ways to do this, the easiest is using devtools
 ```r
 # change working directory to where you want the package
 setwd('~/my_folder')
-devtools::create('myNewPacakge')
+devtools::create('myNewPackage')
 ```
 This will create a folder called `myNewPackage` that contains everything you need to start an R package.
 
